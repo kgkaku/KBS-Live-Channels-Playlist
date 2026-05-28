@@ -1,4 +1,5 @@
 # KBS Channel Codes
+# Format: CHANNEL_NAME = CODE
 
 KBS1 = 11
 KBS2 = 12
