@@ -1,30 +1,30 @@
 #EXTM3U
 # Playlist created by @kgkaku
-# Generated on: 2026-07-10 at 14:34:50
+# Generated on: 2026-07-10 at 19:38:45
 # Total: 5 | Active: 5
 
 #EXTINF:-1 tvg-id="11" tvg-name="KBS1" tvg-logo="https://padmin.static.kbs.co.kr/live/2025/2/3/1738538621612_433742.png" group-title="KBS",KBS1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://onair.kbs.co.kr/
-https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODM4NjY3MTV9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=lKd03VUezVfqtf66xCfylPXraS-UamXS-HhqTjEqiKuEd426K0UPprFr6wUT-8ASMK6JjumHb7d0a7OJFlnejPByDVvZ-HRL33XGEVyFhWsYNMmIrouiMfRhEjA-a7U47tSTLuX75gheMut88O9V1-nsdm8MEKkap8hdEX1maEWaBJWnn7fA60EptB81i1A82fIpxLW5t~5azXTI9chcNeX5AgUs3rBw3QaZg9J6W7HNhOwfHhx6Xeikkx5jrZn7nkaCL-AEUNvJ3EeMUe5oTkHnpDhf0DB35BD44vfF8xjdPzIYXckeiuPI8AS5qgB54BlSnJ1aWY1VjUmvneBz1Q__
+https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODM4ODQ5Mzl9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=ZSYzO~PgP8hNCc9PSdxWf1o29VF91~fpfjMMJfQKVHw~HApGTETRooMKq4qafy~BDiy~2LzBE0i0aiwc~KsD3IF36RYGZPwC8-NcImT1cuEagVFO~K-ruoM2VlOFT057HBu7-PbdQQUJ4lNO0M2hiKCBKI1Oa-Xtwvn3654khqoWQOEBdwqbZMb1x65KL~9EfQ~HsBj5I5oaIe5~Wle~4Btdvkdul4pwaPKpwFBnuv~vQixADmLiJU~JjNIemS-TmRv0hTiEaiksuj-Y--WLeDBmrX8Ji-h3upVhBrHka5Hy5c4F3VLyOvMXqH-zeFCz1Z0arkriKqIh3wOdTFgYog__
+
+#EXTINF:-1 tvg-id="12" tvg-name="KBS2" tvg-logo="https://padmin.static.kbs.co.kr/live/2025/2/3/1738538621669_433753.png" group-title="KBS",KBS2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+#EXTVLCOPT:http-referrer=https://onair.kbs.co.kr/
+https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODM4ODUwMDF9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=WQnkx-JIfRbmIPL52lgd0WlY7BagmLjskd7x6oykhQzqtYQF9lXCd9wdmIzTjQbrDEAcccwVYS-bv4qniUPCpTLhhyYiw-3MhkAuOVVz3VNi9JDx1EPxIhAjFS2u78lFl-A0LWNiiuhGNFrGemowIEYogiVbY~pYD488eHcW6K2OQkMezKR-fTWRT0b84Hs2rLMFNljjK5fmeQ0Fr0npjP6vOS9IQS7MZ-jro2TWcp2gs~d6NN0yEMooIZBR2i19KVgDo1EUUKbEo2EQT3kYsX5ptZrvS4dmnFVemk14FvP3uhGvPeG7MDdBS21a5UVURYUCBc4AsuTMSNY07TQHJg__
 
 #EXTINF:-1 tvg-id="14" tvg-name="KBS World" tvg-logo="https://padmin.static.kbs.co.kr/live/2025/2/3/1738538621754_433764.png" group-title="KBS",KBS World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://onair.kbs.co.kr/
-https://world.gscdn.kbs.co.kr/world-02/world-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly93b3JsZC5nc2Nkbi5rYnMuY28ua3Ivd29ybGQtMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4Mzg2Njc1MH19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=GAv6nS2xM8zuzJc6bJdUZ31qTe-7eV8Ud4kU5~QKOw-znVpbZjOOCTHDPp22YiEd8cDhVQrC8uO1gkYGG6EVjM6zpxX1sVSLLUfDbrpmr8uJN0z6Zs86TFrPD051Ntc9~ZunIqRZKvmTmGLweIVBhYlrzjE-PNFl~5rMetXzviBhWTsz6lrHk0kICpiB2GdQpm4JSfCpLSDJvovbQYrZHC2B30VdX0laGEAv7nQJ~mn8qrnUXnk7i-g13KuDMfJR6dGYTYCVRrXEznMecFrtS0l58eKITSQdgameAEWjKmp4Tlf6559-wlE6Enrkcg-Gx5POVeY2yvXEfYJrHftPCQ__
+https://world.gscdn.kbs.co.kr/world-02/world-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly93b3JsZC5nc2Nkbi5rYnMuY28ua3Ivd29ybGQtMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4Mzg4NTAzMn19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=PBoabvDMWMi2efHT2qc6-1bWq0i7wjcf9eIXjpWZtJPqcpIhDLb0CFi1ZVmpyj7jWyZuwM3URKlHOSaarZ6ANNpP2OvE3tpjwJQ-RxysXotIQ6tkDa8uaLUc59v5E7131zjptFnTJ07qt7MBcc8n-vYMgblIrTo~2hFIDF-NZrdtbMoCcNWQE~oegS-ccjDKhCR03TslnHHRzyqRH-3~5YkTL4DwZbkdo2cRaezH6a1D1-1SV0vyKiEKz6LGTM3ELmgLWP~zwJd2TSMwZQkIWYCahcGM~Dwhhpn~uK~7qgKiqedk9rB6yu79YK67dbRFDEdJTq8WstPNfTxZbapuGw__
 
 #EXTINF:-1 tvg-id="81" tvg-name="KBS24" tvg-logo="https://padmin.static.kbs.co.kr/live/2025/3/21/1742522477055_445256.png" group-title="KBS",KBS24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://onair.kbs.co.kr/
-https://news24.gscdn.kbs.co.kr/news24-02/news24-02_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9uZXdzMjQuZ3NjZG4ua2JzLmNvLmtyL25ld3MyNC0wMi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzgzODY2NzM0fX19XX0_&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=SB3VHohWOluNeheqgQJWpXepoUgzAUmRRRh~nQ3FclsprxI05wiVY59zyEzQyi-rRpeiTI7QYhRVIuZHDJ4UZTwupac9x-4rBUIMp-s4PW-GV066V5muEPXYdBmQgfnxd16pBMnMWbDjlO2TQM5IKgad7D-0hnfaTJhdBMKU1mTx94XHLoO3rGU5RK4NoY0v4hiqJyivgWTkoBhg3KuxKSVzzq~lLXEpJGhu~PX1Pk~17J7iMvkWxzz1K2OPPqZQRCxcbdXQgl6NxxyrfmJzRDgYsneRF9DRIAr~yCZEEiAz0fpLD-Muou6J6Pi2VDFbQyLduvfuUrhuKOrHHSSDWQ__
+https://news24.gscdn.kbs.co.kr/news24-02/news24-02_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9uZXdzMjQuZ3NjZG4ua2JzLmNvLmtyL25ld3MyNC0wMi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzgzODg1MDQ1fX19XX0_&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=Iywc~A8d942fefXJ4o6xMM4edgUgqCIaFAkeTHNjDO2HUdtrxG~iSS3kyS0iLJMT4NCQ6MrmPgy7~qI2qq3a4yudhS3jwoEFiBeaIrEDQtqf5n-mZkMEihihMUzbd96FDGy4GXEMIlI2MRiZ7JjLn9UoRbzg~mZhLt3-IgafaMfoGANVmD6eo99iOC8etIfbmalWyucShpSyo2Qt4F0w1hJ~7ugiOY1eAYIhYyXCVahfdG84mb58N1xwxIRglJBpGWyv1x9KFAewJ32cYZn0HiEZSZXK5LBgslFQTiTE6nq3eWRCla23UGBjfo-WWHyLWuV10a7y8ZIT0Mhp70MysQ__
 
-#EXTINF:-1 tvg-id="N93" tvg-name="KBS Life" tvg-logo="https://padmin.static.kbs.co.kr/live/2025/3/11/1741700049056_443904.png" group-title="KBS",KBS Life
+#EXTINF:-1 tvg-id="N92" tvg-name="KBS Joy" tvg-logo="https://padmin.static.kbs.co.kr/live/2025/3/11/1741700048850_443880.png" group-title="KBS",KBS Joy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://onair.kbs.co.kr/
-https://kbsnlife.gscdn.kbs.co.kr/kbsnlife-01/kbsnlife-01_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNubGlmZS5nc2Nkbi5rYnMuY28ua3Iva2JzbmxpZmUtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4Mzg2Njg0Mn19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=gytK5BmBVjr6kGst6eIONqEpb9t46r5kaOQSIiZKpDy5wZYczZB~jQ90Y-v-47msVoqKaJyUd6zQ3O8uDaBioK2H1Nykh9JYsfVCb9H2jfhLGiV4Q9AKkkAAokVQ~ZHKqSx9t3jj0ltkY1gbNN5LxKlDiJENz3heUXVwsaA6V6W5oinxQzHRsxjuXEKq6N8-af9pYvRCQKiUBnTeRcz1-rgWNV0yxUjt92d1R8UNjDQrfY0O9fb6Cu3Gu2Qp-~kAVPKZ2Wdl8wNMFmezMZdFj-9LzOhb9fgNpeM2a8o-haUmfweD3oCVYrRJoCCLa3eaxe~lGRjIcOIVhaYM9ru16Q__
-
-#EXTINF:-1 tvg-id="N96" tvg-name="KBS Kids" tvg-logo="https://padmin.static.kbs.co.kr/live/2025/3/11/1741700049148_443915.png" group-title="KBS",KBS Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://onair.kbs.co.kr/
-https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-02/kbsnkids-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNua2lkcy5nc2Nkbi5rYnMuY28ua3Iva2JzbmtpZHMtMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4Mzg2NjgxOX19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=GiajRyUpEt70-7ad6ELXQWPkPtEfUEzp6xqk73xX-NzhoYjPdjs6gJ5xA-SvEEtyrFuTgq6ZghDD5mkilyvgetJciLgILj1s29RAEFNCcYuHRdUnYYLRzjKSkTPCHnPdGJvVvqW6J6yGtXWrjhPl3IEIcoenEcx~wS~4n4Ql-RnHM2aFWaj-lNMGgInCsiA5WKQfFzXKZwrto22RyXQ08R~ubbTc44MyWyTQug1PN2izchNJMKufVxwySRO8xjXpMOBlIHrMJfrZJDZZ-4OGYcPn3CBukufA4eotda33EkKCjCOSz3pHVS4uHkBR-tFHSWhNwGN-8Y0Ir3YtNb1Vqw__
+https://kbsnjoy.gscdn.kbs.co.kr/kbsnjoy-02/kbsnjoy-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuam95LmdzY2RuLmticy5jby5rci9rYnNuam95LTAyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODM4ODUwNDV9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=DUrsCzoBIS9RARo3gUYUs4oGRWOYXQ3O3w4vg5PnBgzMRldxP9SE0QSpaDBgYfUoHHAbbsAsYoDy-2w03HnTE-X2GClqEkGbzSQU7Vd0kklgbmB3aiBnfrEd5bKR200pdVaofoDhkog-OuI5SaOX1l-0KsX9jQ1Q7k0vQXAP0OlNntpZ2fFjDj7QgZ-X5SRUgfpHAbOo3wuxfBTWAp~2qAcWC8pA96x-z0OAhhNIM6uvV96J9yVCONi-wRq9~Q8zwBLGaaic~bEqT~WDhqy5sEgZiC~JQho2rVUHGdAw7gaKFU0Qn6tUTmxGQcNAhvhvQ4uVepuxUBJyj0HDxX4zjg__
 
