@@ -1,21 +1,42 @@
 {
   "credit": "Playlist created by @kgkaku",
-  "generated_at": "2026-07-13T09:35:23.262103",
-  "total_channels": 2,
-  "active_channels": 2,
+  "generated_at": "2026-07-13T14:41:35.662799",
+  "total_channels": 5,
+  "active_channels": 5,
   "channels": [
+    {
+      "name": "KBS1",
+      "code": "11",
+      "service_url": "https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODQxMjYzMDl9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=nOzTJ4M0dzg6q7v7EuCkmJeSt8HTzmQhBfQNglpE7iWJoIlM1JSAfEWOb6gR0cN0Xv3LQbafDYaZw4hgyA6t4RtuXW7~COfdcxj4F7mkFtWFBAS-lBTOxO9baum~gyVzhDUtHnBOVOuqYYKaRyFGbbWjH4P9DYlch-ycDV01RKVSRVgK9KBF-LOJkNvoPUEQkHRDDzTL5tRKf4I9DK1VKn83BnceGzBzJUvMwah8aKklWuOnpO2cBqm~Od9YOmcyWCOd4s~6h7mSyXJvDsxv9fzJGm~4QzD46ac2Iek8Uw8KyITyzm8qV1U2KfHsDAftBErfmSb59hLwuWH-JSeTGw__",
+      "logo": "https://padmin.static.kbs.co.kr/live/2025/2/3/1738538621612_433742.png",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    },
     {
       "name": "KBS World",
       "code": "14",
-      "service_url": "https://world.gscdn.kbs.co.kr/world-02/world-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly93b3JsZC5nc2Nkbi5rYnMuY28ua3Ivd29ybGQtMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4NDEwNzk2Nn19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=aZgecZuLHx77yrEZ5c1q-S~ns6s29-mVxZNxvIRto9yYtZ1J43L7XINCWRSPjZN~SKGigcDSBFUmkV9pkAcNoM-MP0TFCUXtYl-V6Cf7UbkBtQhh99cKBD85SlMIlYVkF~qpb6DlhEuAkLt9kipxS5kUrsJPVxlbb7LbLTf6P8uAz7FuI0fyqqKP5ULEppUpC9KhwBuL6jViBpp4qxJayAFaqXjnYwHbquLVP6~OZi~E1Euq-d10KUPGqo48hWdprUZYKAsJByiTbR1ipTxMeopx1TYCuohdDpdzm-mI4fDLBO1CQowIQAaZmsu1e76FA2Tqd6ZxKLyanRAJKBCCCQ__",
+      "service_url": "https://world.gscdn.kbs.co.kr/world-02/world-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly93b3JsZC5nc2Nkbi5rYnMuY28ua3Ivd29ybGQtMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4NDEyNjM3Mn19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=iels1BBCBGpNdCREdtuic6CHnuBeVGx9SUL7gdJNsGFwPRziHvkwOM3dgeWBpb65FqJSb7eX1hpRJzA77q-BQYVolLqhuJhZLkvF3AHlMB4tLAXTNO0Q~dLwyWDKxaupm0UdAdCbcS~8SenGUyU8dzvrYgXQb8HWiE0Eu9zKkuKrBuSvuKkoWpG42aqdbdwtAGLTWsjuksBqP5~Cabg0jpZE3bENPAmcdZDOdmXeExRx9n9snX8DHighGl9WuYPlunETI4YKRzhhMW036TQJCq5aTKQ5-pCkqt3ABHKP22rlfIvFfObixk~58ZyiCSl235GDzyrRa4ZuyQWQh4E0lA__",
       "logo": "https://padmin.static.kbs.co.kr/live/2025/2/3/1738538621754_433764.png",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
     },
     {
-      "name": "KBS Kids",
-      "code": "N96",
-      "service_url": "https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-02/kbsnkids-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNua2lkcy5nc2Nkbi5rYnMuY28ua3Iva2JzbmtpZHMtMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc4NDEwODA2OX19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=EpCpEF9ToGQFRP8xH007s1Of1ebTyihn2P6WLPm8YNFig8g4p6J3THDQF8KclRlAl0-sh~vM2yJEXuSTpn-LRXEb0MzLbdzrusF-qCMRvNwk9EGNJuL8FIQJ4U9Rb-j4Gd7ivyx30KyUWLQUwucA~mXYuOZDiGjhd9VGUOYf0QfdvyuKPkA8ZEJOyPQCmpcFWcKahxjsa0MMtm-6fl2734NedoGpg8PkXX77nlyq17TJze2aSRO-RETiCLVEGYd74aD6miHI7auO469AE6CTKn4ZvNpGv2g1AY0LJidPb0SmGVfvHc0FTHLuv7vKsIj954ddhiwwZFXDekbJs5lyTQ__",
-      "logo": "https://padmin.static.kbs.co.kr/live/2025/3/11/1741700049148_443915.png",
+      "name": "KBS24",
+      "code": "81",
+      "service_url": "https://news24.gscdn.kbs.co.kr/news24-02/news24-02_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9uZXdzMjQuZ3NjZG4ua2JzLmNvLmtyL25ld3MyNC0wMi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg0MTI2MzczfX19XX0_&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=fSak9qbrePX5vvxkaHzVQPvuz2q-vLW2eRcMB20ZgVwwDI~RoPQhseeT31pA30WzQd3QZU~WLQPZ-v6ppn1-JxTAwLNCYaSCP2YWITfR6cb23YZAyCgQmMhfAP6017OYQbnPpja4tTI9E~kMdDirIVFp4hZVPNTzqAEYiJt0VI8xpNfWp-tQhLkKoSijC99gCSccqtQV1Xj3lcEZ734BRJ2~H1rk5I3x4gsPrmbU-xxX7I87JW-fLwNxvDLM4Fv7Lz0fnOIp5mDFoGHCg~iTq~Ls~RiQrd9-3rFOv5Cmwwv2NOB0AiJn5royXFQsrujn0W6UqIRceR3CP3t-aDOlGw__",
+      "logo": "https://padmin.static.kbs.co.kr/live/2025/3/21/1742522477055_445256.png",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    },
+    {
+      "name": "KBS Drama",
+      "code": "N91",
+      "service_url": "https://kbsndrama.gscdn.kbs.co.kr/kbsndrama-02/kbsndrama-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuZHJhbWEuZ3NjZG4ua2JzLmNvLmtyL2tic25kcmFtYS0wMi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg0MTI2MzczfX19XX0_&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=aGG3wwdJRqdGP2sO8tNE9zwDeIeMK3owJXPVwfCvyq2CP7XZMWQs9SskVRju~9F~4S6rYboDYO8DssB9Mz~a1ZBp8NVoLdWqnqivA5OZO1m4EvzQ3xC4RJ2Qgvm73ZrDogQa5rtIa9EzPR8Vb1arKklKmHq8ub342TJ6pBe92wabmOUnF4umuvPtK1yjw1dVpusrr9AUJgLJHRjUdGxwV6zBPsYqm8WQLow~vcxS9RdiIrCofr5B5JJ4XCiEFP90mAZFwmmcBRnJpLSEDKTlLyN5lMg~QJCetGoeOrNvSULyXQmhHpzhkzWCbkQv5BqYtqQunM~Ces-93CE9piLi9g__",
+      "logo": "https://padmin.static.kbs.co.kr/live/2025/3/11/1741700048773_443879.png",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    },
+    {
+      "name": "KBS Joy",
+      "code": "N92",
+      "service_url": "https://kbsnjoy.gscdn.kbs.co.kr/kbsnjoy-02/kbsnjoy-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuam95LmdzY2RuLmticy5jby5rci9rYnNuam95LTAyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3ODQxMjYzNTF9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=MzctJurDKjM1pDhZwkLxWVjScJb6NJAuarn-qTXpwd6B2F~4Gt627S2jaraPq48tyWLzsAxMc9LB3u6e~A7hmvYf8-KaOd8EF1rUTux~kpNCb8dYNNAa7WXXumqbVpyZaFLygKN36PMpcQGjY3d~IUNqlbfrNuyJzwtWURxC6-czjMcg~9VXMiPvnsjxteFUWMiL~NQb5Sdpfj-kLf67okDNzPZ9idW~z1ZVs5Ox4~x9R-htIzHl8Ilz8tt7I4uUPlT2MnVyZYiBFazELdaC6rvGDPp0LTBli2~nh8IW7JM9dGk6OYs~i72dM8dCli2NeFcsn3u1TiJnn-7ML4LDEQ__",
+      "logo": "https://padmin.static.kbs.co.kr/live/2025/3/11/1741700048850_443880.png",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
     }
   ]
