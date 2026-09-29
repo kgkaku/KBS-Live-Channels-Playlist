@@ -1,20 +1,15 @@
 #EXTM3U
 # Playlist created by @kgkaku
-# Generated on: 2026-09-28 at 23:01:53
-# Total: 3 | Active: 3
+# Generated on: 2026-09-29 at 12:22:06
+# Total: 2 | Active: 2
 
-#EXTINF:-1 tvg-id="11" tvg-name="KBS1" tvg-logo="https://padmin.static.kbs.co.kr/live/2025/2/3/1738538621612_433742.png" group-title="KBS",KBS1
+#EXTINF:-1 tvg-id="81" tvg-name="KBS24" tvg-logo="https://padmin.static.kbs.co.kr/live/2025/3/21/1742522477055_445256.png" group-title="KBS",KBS24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://onair.kbs.co.kr/
-https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MDkyMjF9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=H~zseDJbt-MYpMUQHyiwB6iB2DWKBNN22qgi8nQUwUtBCw4LdmNlLyjwVOYbwo~9jPVMuiA4qUEKRgdPaTsSY0ABU-fcj~SZQCnzGrkNH7cK4gjYPzLTEM0E32T1Lt3IkVyZedYYvir7YGxJRuDTfOYH9ea48X8Vt5o1~xOS1ciE0HrENWhmgwOcedEKGKrOMPsOaT-HO2qpyZ4G8upx5-iLgDEv0OP7Q~BX91dgWD4WQfIwNk-R8OZgh~0zudqam4x8FWmkyqQ-HuOREndKPVndCBNyYoiVgXiBa6a5DuuYIMJJZrEq~U5Eyksvefh0ZnZwlcziZqU0-5rwUZnyZg__
+https://news24.gscdn.kbs.co.kr/news24-02/news24-02_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9uZXdzMjQuZ3NjZG4ua2JzLmNvLmtyL25ld3MyNC0wMi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkwODU3MjU5fX19XX0_&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=QueW5xJTX1CDdEQt4iGDk2Jz0UI5cLhgPAhANUOWZUtQqfQHOQRZl3EHYrU4NVj3zdbqqGDuUYUsZFpI0pWG82aSCPmXfLv3V94CNLkuUBzi0JhOIs8f4My9Eqi~YgcBIG-pJpxgC0LZNMErmkIHw-OlpYIuA0kzI~XFl0IOxEx6uw1bCpVk6QWfO8vdxBi3iEgeJSWLmPFNuMieh4co-c~5K0gzWr3C8~2ESPQ~~hoSYZCbHMfWoIrszQt4Bpdkh21ZRWWshX~0FQPdIjLP0fa8Srv218aS3D3HdAWICN8JP1BsMWCrluam2b5vPjYcw1cUDXY3aEHn3yRNPofO~A__
 
-#EXTINF:-1 tvg-id="12" tvg-name="KBS2" tvg-logo="https://padmin.static.kbs.co.kr/live/2025/2/3/1738538621669_433753.png" group-title="KBS",KBS2
+#EXTINF:-1 tvg-id="N93" tvg-name="KBS Life" tvg-logo="https://padmin.static.kbs.co.kr/live/2025/3/11/1741700049056_443904.png" group-title="KBS",KBS Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://onair.kbs.co.kr/
-https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTA4MDkyNjJ9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=apsALnIx-vWV9b~5OVs4Os~JWEt5WRwS3eazmS2RRGjWOPVXa41UESRRwVxs5IOGQXTgmnDfRz3D9x-8QuRcbpqrtWeoSz8XRFZsl4tfqhgMPkOVWWB6vNL8vmQEJt89YplM4kJTXQQ4~ji-BhxZDETduJ9CMmcSFNEtq9g2wUcCdfQq-~Y2aunQyJ4ATudonOsYKpLDrqif9fUffrHkp9U6QSx5jaZvoNqmDeEPy8kohdllOCXTJ3kmdUsMYk-ZQpog-7Nmod1KgUQ1CDFd9Q55QAzH1Esc4mhhSSX1oIJg6fHlfXfFZQsOM70uCRA-S4GVUfLNSl2kAqejFhQU1A__
-
-#EXTINF:-1 tvg-id="N96" tvg-name="KBS Kids" tvg-logo="https://padmin.static.kbs.co.kr/live/2025/3/11/1741700049148_443915.png" group-title="KBS",KBS Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://onair.kbs.co.kr/
-https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-02/kbsnkids-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNua2lkcy5nc2Nkbi5rYnMuY28ua3Iva2JzbmtpZHMtMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDgwOTI2OH19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=ekC9rJuHQsjSSHMxwmp822Tpyo5srDNvbA6W2NljCpp5cUygoNtOgMRyOY5KshCj9x72ckm1zLbV7fyIppus5jduqRWOvqbeu6fpC28K6eUhIHlSOnwyWs5X6gEdqJMn5uzS6~40x-qZbeUk3j0N~RZPcCPx3J3gsedvnJ4tfA97ZGML94V~gCkqXc8NtC51B~5YbZ6bKL9PRzff0QbrPBNj~PTXN51UVks1pFMD-vNvBIYNT7jHhyONfmPlL7IR-9CfqSEwad8DX3ZZpr6zyzqaeWCEeTGBQLf5B5MRhdfwP73pNw6P34Cua5B7-zXUSsgfS3Q02cyyQKmVl7F3Yw__
+https://kbsnlife.gscdn.kbs.co.kr/kbsnlife-02/kbsnlife-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNubGlmZS5nc2Nkbi5rYnMuY28ua3Iva2JzbmxpZmUtMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MDg1NzIxNH19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=QTbfYLCtGEoc2nz501yIkT6X1VtQWX6znSzOt7iYInr8kCiWE0iwEcwQWuQsW0~h93K8BjYdLtxU7ezT2FLlabYCZReV5FiFcLpvZ7XcPXVjTtICD70icCK31UUfX-EVODwr7IEhsLkwxZ4WDKofLcYJO6oH~vESEbHmHSyVU42pHlWZUlYNzX-f2fTLDePwpClw000a8wsQAQbYdmeR7hs-91Z7keHtUMPyR7fHm3~LAiHHBzHb9SrvNruoX7emzUDsai5IwIFOtolm8jFYfn6A8~9XBCpC8N7Tih4ghbHZZ4JZ~cUlNH8~pRcHlRRcplZsRJGDs89b5XkkiNrj4A__
 
