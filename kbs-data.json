@@ -1,20 +1,27 @@
 {
   "credit": "Playlist created by @kgkaku",
-  "generated_at": "2026-10-05T23:54:53.894143",
-  "total_channels": 2,
-  "active_channels": 2,
+  "generated_at": "2026-10-06T13:02:35.113908",
+  "total_channels": 3,
+  "active_channels": 3,
   "channels": [
     {
       "name": "KBS1",
       "code": "11",
-      "service_url": "https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE0MTcxMDh9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=EHA9BKLQRqC0rgPtuvVb7hR46pa4ao9zzs85TjDfqyIHndbeJnfFdZeOD4NcbPmAamzA7pZeiwgCQY7GINoQt9PwjQpcgpwEPn0QzSfarLZHE3v1OTKEer7y~A4jJh6JvBjrDqGaqXALYdQfDhOXgSCZa~5J0c3lKjk0NcyOhc4i9OdgYgioIRaXbDHLtDYrN38XdyIZ3e7PsfUScQKaHgulNqkBE5dwvdrphgrioY2772hdVXbHc9pxXgcdCb2F5PHt1mChJDcjK4dVgIl9hLVnCPBKu7BBLLXtAQ4yTupTecaf1pCfSwiTXRGHX9E~Vlw3LqpGJrgXKXnavX3G9w__",
+      "service_url": "https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE0NjQ0MTN9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=jIVf1SW9VbmBE5oKkNhSpiToQLkW3qtApvLm-8f3Ej2j36AoAuqJ7RQQGFQObyNXiK6DR9xjmJULmf~5owu67D3gUXVYfYv3omgFkejFNbblrOmPeq9avpQj21g8bdG8PMFvaiLQCMmqu1JcHSITPhJRl4GGEO6miWZyrK-apsYy-nQrhRb1CC7arjlKbmXtFDydfBUUYAGbt2cVZBpF23Y1hMTmai2asZ-O4rn86slrG2Y8ISD4DVAyQidsZNAg8QDrXVbkoLfhzPz5DYK2w~uvXJcqfrT51LM92UeLPpxl2v93NVpH1gkcOeej0NkMxQaIoL-z4lcNrcyiXkohvA__",
       "logo": "https://padmin.static.kbs.co.kr/live/2025/2/3/1738538621612_433742.png",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    },
+    {
+      "name": "KBS Story",
+      "code": "N94",
+      "service_url": "https://kbsnw.gscdn.kbs.co.kr/kbsnw-02/kbsnw-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudy5nc2Nkbi5rYnMuY28ua3Iva2JzbnctMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MTQ2NDQ4NX19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=AAHVhq2xR1MlQEI6nIcz6ZseoxagOFWhcVFI29IwkC4S3e9AQ5HQwpFxcjuuF3WY8~NIFXQstk5RShslLIH54LrX-UOgRg-qTMdsiNp7H0K1RHe0e9662mLkX8KPz9FLmOw2G~gWMTOds-oVv65mdaQVmIf8PhmOj0om4k-3o0yZmH3UUU0Y7bfSruInfj79sDfnxlwiMdJidxqBsJUH0c4OZOX3MK1eu6w~uWgXrHxtPIBkFsqvmjVhUx3HBXdlW1wVTpseX8HVQby42Cv7cnThaAaIATtFqX1BTFjmqaP9mkPNA1y-Od8yxnVE4~XSv1WnV86c5E94C2eEBNhDZw__",
+      "logo": "https://padmin.static.kbs.co.kr/live/2025/3/11/1741700048990_443891.png",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
     },
     {
       "name": "KBS Kids",
       "code": "N96",
-      "service_url": "https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-02/kbsnkids-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNua2lkcy5nc2Nkbi5rYnMuY28ua3Iva2JzbmtpZHMtMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MTQxNzI1Nn19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=I7EqaOzdLKDiGFPsGkPdeSPaZ-UTpMOQcilaxK-jjreaREt4XZMMYLfcB-29OKCnJjBh0GGnxD-R85CCUCY7lwtUUm8IsnPJX4Bu~6OsCsS4FCjG5M8W~DruRyxzEXahLRVC0Ff2OZBEWd-bzWIye1Ito~gD0Q4-7wF0jo4xxojQBBvuFWTvDV1FFbRZRDodRJBwBs7a80b7ZMT7AmpsgslUsr9Up2xRCIVezJQGaoDOMT9Uu2iAsw4qEgY5mq75VNKcLSmbvnhl6HhYMOjK4W0zMxjJCBvdqXxBh-O5jnAczlhiwtB56RymNB77anx~F6rMu5rIV-YqCuri5D2-tg__",
+      "service_url": "https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-02/kbsnkids-02_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNua2lkcy5nc2Nkbi5rYnMuY28ua3Iva2JzbmtpZHMtMDIvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MTQ2NDQ4OH19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=O0pfV-2XatVbjNzdBNyTTFVf2UMxQspI044hvEWh4Bbf-~vPwkwcyveM8Pm5Y31otbY4NDStfGKDG9d6vN0GorxqWsCn7i1Yua1ZFl9ogqI0cjW76N0xqWxqg-7Dv7Nh7ex~iWOr4VFDo~ByB5z8IawCVkODt6PuWS9rD07Rv22PhSDUVDuShA5JpBovTAnJ3wOhgBPL4OPLma7YzohpH1s5V45Ro1dS3WOhC4cuFVVNTJfbzmQXmnCx6EiwjVsfrFg5aBOGQj45W6R9-tDe5L~MZJ9v1cluBFdNSNBR0RGO92T6HnE8pvOx-HmRAqPSD7ZPntbAPciJqX4rTDBOHw__",
       "logo": "https://padmin.static.kbs.co.kr/live/2025/3/11/1741700049148_443915.png",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
     }
