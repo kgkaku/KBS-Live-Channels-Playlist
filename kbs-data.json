@@ -1,35 +1,35 @@
 {
   "credit": "Playlist created by @kgkaku",
-  "generated_at": "2026-10-07T12:53:36.359533",
+  "generated_at": "2026-10-08T13:01:29.457438",
   "total_channels": 4,
   "active_channels": 4,
   "channels": [
     {
       "name": "KBS1",
       "code": "11",
-      "service_url": "https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE1NTAzMzh9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=Ym2asghy-~BooYDfUmcOKoIRl~NNZyCIzJhuEqnUvAjMOvHZmhpm9TJ5YE7d8ojtwrxOZU4HxAmMQCmsfkM7WB7EwX4uDaUaS3GyAu5HBxSzyJwD9IKtEd~yc92dASbBTHuGy~A3IqzLzKWDAQwaXe3xUJsYIqkRo9-G3xR~Qrp1IlFd0ZIPRvmUomTsH5MrtdilkuCdmxDi4GSurTZc~alZswHQlgfdSCLpJw4981DaN1OsKjIa5aN-aE28VCsvQMKGvtDcFvkUG1oGMy6ttlTLHu7gHMnRstMrbfmuD1hBoqWGGllqHoCZZCzuxgOqlAKcxOF888~llyClg~Tdxg__",
+      "service_url": "https://1tv.gscdn.kbs.co.kr/1tv_3.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xdHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE2MzcyMDl9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=mRu-c4WZoT4o3AxFsm1mNz8yChURI-wmkudz~g6l0-MGd1TymTaZxpvZpuuSlS67zKpgkMVKE1JnvZvDSQsMNfWSuQDmT1oZ3Jwp~5oa556wyO6Hxq0rHEL6Gn5ULwDSNDjLoJ~Cp-yjA6aJ7YDSUK3DcUNzQ1SV1QBsuFAp5hWCrm38BWi-nl5MuhY0oFgInQESq31p9U2rzkveNCY7nC84HVWsRVxXTrRVEjzqO4s0FkQvw-mcmiNH9gHZHPr3rZlLwpbcsGs8TeEe1tACy~qLpPX9-5hixzjrwvkjpABunv4UyWuWfJJc3HjDnQdYJHJ29YG7ABBU5AmdunQe-g__",
       "logo": "https://padmin.static.kbs.co.kr/live/2025/2/3/1738538621612_433742.png",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
     },
     {
       "name": "KBS2",
       "code": "12",
-      "service_url": "https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE1NTAzMzJ9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=DBrdb9eoTcsqaBo0wzuIfKiFOdRDZjMi4EHlgMpXp4fcyKEHs6H-Y5d7Q8CFEASBxHLC7l-R2sdVrB0irL8aa47PCzAv2lipnYveeAV3RNKIiBMsSZpFB1crwb5575wcfwoCWbd4FViwL9tDyAPdDeVgJQtBhpPlzVbWeMrhHe9xJhkLEHiw3jzy6My-1Jb76XfWJPjmr0qmlkXe7mVwcRRdlmWxHM8RMNVadCv2pDKarYUR7GHbiw5mx-r2t6rq873iKU92ZFlQdCRofdwEO0q7i~mg48o2Qlz9w6rc7BbeMBjH8nmn5cYRaf8OxkylZwu6lwumd6u5JV216nN40A__",
+      "service_url": "https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTE2MzcxODR9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=E8Y5Q6CzogGGowwsW5NtQ6xlXRnk~ihBAxzcM9aeo-Vns-bTI8MPQcesA1gRcXuZIycKNqBIkTaKC2wSrkB0ocUpZtEK1lI1CZ4MUc9AZJGGa-86G1r~dfbEk-649rOz3dv61YS1GKZo60KEvIBjFOSM9truLcoC3zcn4tImpoEsUVNGfActqY9cRh7z0sJz0pCKIXajBxdPg6mVDpzZUHvUEqWQMRYxk7y2-2vbp-AD1cO-Fn7h84SJi0yzGTWCzSgB2LrsFXazM-RxwwSEW1qzSQIqZzYG5sXuKeVhcr7a5iEoPwTPrYjIrIdzHtAxXvKDOdiBNidy47tXOzkdqg__",
       "logo": "https://padmin.static.kbs.co.kr/live/2025/2/3/1738538621669_433753.png",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    },
+    {
+      "name": "KBS World",
+      "code": "14",
+      "service_url": "https://world.gscdn.kbs.co.kr/world-01/world-01_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly93b3JsZC5nc2Nkbi5rYnMuY28ua3Ivd29ybGQtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MTYzNzI0OX19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=E4WuuLwlL1dZBk7iUfdxDYEd2J044lQLhWKIP7xrlC4q29qUk-xV5ZEGilBllwwqkCb5ycTLVgGTVbtZmMAqY5rQLlgo8YOaTqFsUKpLiErBWV~JEVHbAS9uQHrShaAlHAadl28z~jz1d8SKmE2N4ob-J-7GAgHz5~~AzoU~U66B4lmQxDtmnwVjVrJQNtUNEy9vYoUafll0PKeMxi056la8J3qoSbgK98EDY4z7~pCrPgS5QbyV01ye-vPtsw5QsSCHdqnhAms7ckoJm7l3DCYIn0zYa39kWA55z369Mj19e8ua5aDzrDQZFxmzdel9UyxJrm8o5V1N918wbA-f8A__",
+      "logo": "https://padmin.static.kbs.co.kr/live/2025/2/3/1738538621754_433764.png",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
     },
     {
       "name": "KBS24",
       "code": "81",
-      "service_url": "https://news24.gscdn.kbs.co.kr/news24-02/news24-02_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9uZXdzMjQuZ3NjZG4ua2JzLmNvLmtyL25ld3MyNC0wMi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkxNTUwMzc5fX19XX0_&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=LgmqNZXj3oTq7snqLYsarGbWGXLuUQrWys1KNc31Y1knt14WCMsJIf981EyaqWCdH39jVeUQbWntLKiJBQpLZ0bJFQtD7D-HgYnLE12mv0HVla9rKPQVPLYPt~ogGYuoGTXPsR-TCHZ8ejE6YXuCB-1WRTCzS5~YroSH8AcXQ1GwadwSDIXJTd2Qehx7ZiQCcX9kCcp4ZfmMxgZUCoD9ok4n35QxLGwmwVzMJIcdfiKQYOSatsa-ZGNoBmlMz2cPQfmPzTcG2gs-0HHvl9CEY1STZ66JXOkJen8lrASxq2cE6L2~zD8GE2exSYbZf8H6CJ7nsYLIiSYLmO-pq~qnzg__",
+      "service_url": "https://news24.gscdn.kbs.co.kr/news24-02/news24-02_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9uZXdzMjQuZ3NjZG4ua2JzLmNvLmtyL25ld3MyNC0wMi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkxNjM3MjQ5fX19XX0_&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=P-74RySVvec~zuSnnY9EbmbPYV2vjJRuQ02jnMlkBJHwTMeVrzkiKQW1~Tn5iZzP0gOoHKWK6EIDDXa6wbERAljHq8b1ceAWwAUsqgc9aGhfPIalnTP1SMgokWUdXqspnXej4UgCk8k6-qTHp63v0dyJ2Xnnb21cyRZLarocG27d1Avg2Y30Z-FtDgnh-4s15vLVZltE2mhAqU6ulfiaX73~9HZ8KFLFTjMf2Msp2sGDbtNp-PMhqvniHyVVAeDOgHTzm9fNXPX0Eh4EcNlrhYWrVFixzE1Nwz5rsrN6Xm8mohlKtCzNdWWupnqqOsHohJdeFzW~MRL51v4-caoW8Q__",
       "logo": "https://padmin.static.kbs.co.kr/live/2025/3/21/1742522477055_445256.png",
-      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
-    },
-    {
-      "name": "KBS Kids",
-      "code": "N96",
-      "service_url": "https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-01/kbsnkids-01_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNua2lkcy5nc2Nkbi5rYnMuY28ua3Iva2JzbmtpZHMtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MTU1MDM2M319fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=d95SO9-~Ls~LGlywDCrNj27xXgW945DiO-y5Ks6dINytWEk7cdb2qJfQoZc3sMSnQeuBYNMWOvlIQ7Vpu192n7k8ePaDBCW252TUQh6Fs0RHWIg1fNs-sQDp8SvxqhICA4xfNFhcG9S1j5RPbaOP7LeV~s5XOtfKBy3VDhXQ7aWRMRJTbW~vpeDNIdtZ9-1RopKFfyRnWybm-4OPMrNJ4IrazHRH08jX0wwKxd7Fc8OYvah1QoY3cWGKXiVp6Vpe7jxcZ1~jZfOE80g~eKF4yAkfEpNaiE7Q84bX8K8Gy0jeEcEFoAVRtHK-8BQdc0vt7SmeXhwzCgwCz5cnsLUvfg__",
-      "logo": "https://padmin.static.kbs.co.kr/live/2025/3/11/1741700049148_443915.png",
       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
     }
   ]
