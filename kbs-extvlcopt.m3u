@@ -1,15 +1,15 @@
 #EXTM3U
 # Playlist created by @kgkaku
-# Generated on: 2026-10-10 at 21:18:44
+# Generated on: 2026-10-11 at 04:48:00
 # Total: 2 | Active: 2
 
-#EXTINF:-1 tvg-id="81" tvg-name="KBS24" tvg-logo="https://padmin.static.kbs.co.kr/live/2025/3/21/1742522477055_445256.png" group-title="KBS",KBS24
+#EXTINF:-1 tvg-id="N93" tvg-name="KBS Life" tvg-logo="https://padmin.static.kbs.co.kr/live/2025/3/11/1741700049056_443904.png" group-title="KBS",KBS Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://onair.kbs.co.kr/
-https://news24.gscdn.kbs.co.kr/news24-02/news24-02_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9uZXdzMjQuZ3NjZG4ua2JzLmNvLmtyL25ld3MyNC0wMi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzkxODM5ODY4fX19XX0_&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=QyOoQtesNXX-iS3XRBXyM2dBkI3iMSfM-57uQKTNhmtlOYHVe7ODI2rIXgd3xQoxsWOP7FFTzHNZ0bHlHt1jUrVCWWWxiO077mQVyX4bL8qfZFHPUN2Ow-sGiJUMkbx-dblyiGNPRKnzEMHpn6~5ujOrQB-VC6pmbVQOZ0KYKk1Hfwma70ntgZS4dqpE9WD~Zu8INDjo0zmAGvJjLMGsXxRZ~kt2eKA6mxZAIlPzHYzO5Jk2KZ0jS2H6JvsIgUliWWJv5jYz6TKWemszXNRvFkzmoZt5aL6CLhxj8wI7VkYJwgXHP4S3oMOM9GvtPhN8-C3s9lssIwBwRInR529e1w__
+https://kbsnlife.gscdn.kbs.co.kr/kbsnlife-01/kbsnlife-01_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNubGlmZS5nc2Nkbi5rYnMuY28ua3Iva2JzbmxpZmUtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MTg2NjgwOH19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=MIdjG4Py48AptM8YQO~iB~A83IWcSMz2dPtiPo6nKVy2dK16N4pL9grNC4uX59ywKyoufO32PAnB2PRmribOuubGxAtqofXzETEI-~P1-pXv8CDU9hvnsTODBvuEFZZ8HlXNkYdHzP1c0OHQkUK6NFR8ZBjZjzZAGYuTBXH~cGWvcwzPJGIqusysLvUVwYNHYsgYoZJYGmKI2v2OPL-Cly1c2YB2vbOPMTQf212wlAgo67bdrtTh-w4oz1S945VIYrCDSxY4aq0ydEDAbc9LK88NIBD48BvDG4M2sGO8i9mO~z2DbdZAEl-qpTYpKTAtY36TgiCMBr39yBBS2iwDXw__
 
 #EXTINF:-1 tvg-id="N94" tvg-name="KBS Story" tvg-logo="https://padmin.static.kbs.co.kr/live/2025/3/11/1741700048990_443891.png" group-title="KBS",KBS Story
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://onair.kbs.co.kr/
-https://kbsnw.gscdn.kbs.co.kr/kbsnw-01/kbsnw-01_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudy5nc2Nkbi5rYnMuY28ua3Iva2JzbnctMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MTgzOTg0N319fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=QaMI2STmkNeMYdggjoBCnhoyHJW-FltUZspgethH9Z2b9T9aKgPXlkSX8xrScwE1G4lOJlTBOts2QqV0zMjfvjhMuyl30~cKJnYaAM-X5G-uEOuU5e5eTASxazL5JgkzB3-r1~PEECKARfXPgbhVT3QrC4ciR3AAMpgnHTpT-eE7lyOGWHNtwHwhGHQOZv8dXPbu0AD1Sgis7LfyR05NSaIrlFvBqZB~Z-F9QP33xAnNUhgBopsoOAuwiOmsWl0pKcZN~D5gLBGNTzbm8Yi3rHXxr~17k8HdX6L~ei0JRKngj2bD4njyfUioRqeSa1wZgeSk1vj5N~l4FtEt8bNg1w__
+https://kbsnw.gscdn.kbs.co.kr/kbsnw-01/kbsnw-01_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNudy5nc2Nkbi5rYnMuY28ua3Iva2JzbnctMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5MTg2NjgzNH19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=K9ci2Qb5uC2fV-6-QJzr9Cl5u9PKSHkzLooeZf54vNrhse4HAwFAUdUwx~1kxdKd8HJvp9UbOG1WXNariILrI0chDq9cDXnDTZbv-DaeQpf4El1Mu4bxtQ8B9TWzysXACCUYv68u73Wg3cAXujU7GZUGpJyY0F4eDdBDwDeHJWXCZjnUxFf9OS2N7ETFzzu36sg7fcXNgNWsF9PB10JNg9QkjSNHMUL7JwuyKWQK67OOdLXotvdriYgSdApf7iXctQxdgIovW3F0-wK~jUSDdwDCBtufLyXgQv5UpxbOFbyWhciy8B-WSrehIUlThK40v3p062I4MLUTK7bQSDpY2w__
 
