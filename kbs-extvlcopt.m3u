@@ -1,25 +1,10 @@
 #EXTM3U
 # Playlist created by @kgkaku
-# Generated on: 2026-11-19 at 20:13:02
-# Total: 4 | Active: 4
-
-#EXTINF:-1 tvg-id="12" tvg-name="KBS2" tvg-logo="https://padmin.static.kbs.co.kr/live/2025/2/3/1738538621669_433753.png" group-title="KBS",KBS2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://onair.kbs.co.kr/
-https://2tv.gscdn.kbs.co.kr/2tv_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ydHYuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTUyOTE3ODl9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=CXVDFweeSL~95l8Ept6ttI0k2~nMS7D22vaDaVSFGb1cGgemUNLKnrsq1U06ycjIgFDGmytafq~BU-hn~qWuOu6KuOsOqcNCpoqI7J-9crlt17d1KXqTMcHwh0fXcwIv1nLwE9pkK3DSOYSW5HguagPSIaaMH4GOYY9NZynstD1EGFxfii3x-wYWb9mPy6~QSiSuLTd9wZljZbxM~o~CmNPkZbJBUnHqtVCEyk8lSL0At3fbn4uexC02JmfXojSVIXFVZislciww4G4DZ-0WEGfZUX3gKnMT7cBWJQhRlflZ3HndZmTCWQqSrttVtMJWC-YcBV7jXs0roZCvjuk8kg__
-
-#EXTINF:-1 tvg-id="14" tvg-name="KBS World" tvg-logo="https://padmin.static.kbs.co.kr/live/2025/2/3/1738538621754_433764.png" group-title="KBS",KBS World
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://onair.kbs.co.kr/
-https://world.gscdn.kbs.co.kr/world-01/world-01_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly93b3JsZC5nc2Nkbi5rYnMuY28ua3Ivd29ybGQtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTI5MTg3M319fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=fYKCe1WDKTOElmXvvBZsjIbGXf5YsStm~EEa~vTJR0pNVunwOcWJ97I-VpIwSYmm661-1wej1p0WEaTJOt5ay63qm4g7xJXCd7emARIrn7zjSyRt7EsG9KVe98rpp3XtbfaJ5EFGTSuWtUP-3evMDbKvzD~2L4vr1ToztfOqoWMMXZey7g2e4MxNrrMJ5ZCzboMDLOActYKrfNUfHSzLhRIkH7K8~WOvFHCG-89O~pAhQaS0cwEariL8wTycva0H7KyZ1L0yDBAbXIrEGaSEyRRLylgxN5gLXkFtX6u0jvi2jLOkujBLMpufNrhNTFe7tq7xTn193o8~clTePOxOvw__
-
-#EXTINF:-1 tvg-id="81" tvg-name="KBS24" tvg-logo="https://padmin.static.kbs.co.kr/live/2025/3/21/1742522477055_445256.png" group-title="KBS",KBS24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-#EXTVLCOPT:http-referrer=https://onair.kbs.co.kr/
-https://news24.gscdn.kbs.co.kr/news24-02/news24-02_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9uZXdzMjQuZ3NjZG4ua2JzLmNvLmtyL25ld3MyNC0wMi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzk1MjkxODMyfX19XX0_&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=m6QgWVedIYv0tpdrEA6E5T59Xgx~PW~IAOxoqkbw3Lk-N555earMUN2TQd0Ypsoq7gRWSl31SluL6MdcvbDA3vDOJGUE~pDUVp8v09GQM-~G5kvl56~qObqvYjm61umzzNprleqs5-xHNKEMnkSOMvVMoYaM2aJ5fC27hd8PixvfBcJcX3AFuHGnaml2VNcFWv7wl1GDiZMaG5ixxqbbYamTUx1-YQDhTHEtRImy1SyKGr3EzXU-CSlRaa8IzcLiRW~-Y~3hnOZ0A5eTTSQ0tX5leBQbxF0RhLA5fQZW9EjHFtR-hH-FQkIMiWH57ZOBwXRj4y7zHpMyWiFupwYGOg__
+# Generated on: 2026-11-20 at 06:19:58
+# Total: 1 | Active: 1
 
 #EXTINF:-1 tvg-id="N96" tvg-name="KBS Kids" tvg-logo="https://padmin.static.kbs.co.kr/live/2025/3/11/1741700049148_443915.png" group-title="KBS",KBS Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://onair.kbs.co.kr/
-https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-01/kbsnkids-01_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNua2lkcy5nc2Nkbi5rYnMuY28ua3Iva2JzbmtpZHMtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTI5MTk3NH19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=B0tw4D-Nx3Q59Js7mxmtVW9rbNbHhOZkPxU-6XU1G2xom-IcfifS9zGWPKc~pecVOZpF547JPFbUEvyKIuV5T6CXY67Ls~2Ri5kLn9wj669bFRbm6JsKcP5rPsOyNxeE2Cx4tKHvsFRiHX0CKvem7JO586Q6FSXWKSvbFtcmYflk-vcgUJVs4Ej~x2bO~Y-7teW9EhIk9NKYKvaCkl9qCb0Ri7yvGSIDi2CIzcSY2Hs44oz7IpebjbJT-~4kPYHC~AnvGSAWz3HExbACopBBV7n5-9-VG05hs0TYkQ~nTUgvfNIlR5-rVl65dPLvkwb76mDvGtfDiOXW4kY31TFl-Q__
+https://kbsnkids.gscdn.kbs.co.kr/kbsnkids-01/kbsnkids-01_sd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNua2lkcy5nc2Nkbi5rYnMuY28ua3Iva2JzbmtpZHMtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NTMyODM0Mn19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=hSbuwG8tY2VpGm1uJ0QbcZwWR3LGhcVG0CKB90Z4T-gky95Zjiqo1w6uaZvvadVJeLuZsLbM1A6K2zbSAv4I55zH1oY5HWDdbJ96rQS1iWuzx-vWP1nfNrdOB65IL~ZDs~6eZP-7k7~PyUnraR72~9f9i-3T~KoF9oIslStcaLunB5yR7wXAU8m8JCEJ-8fV0Xzfjf60vNHVcUKCn4xaCaQK~p9oKCE9pVjNxF-T3Zst965d7DTK7Sjfh40KxLc83gMkyw6J75ZrzEmWhVrTixgRf0b-oOgoOv2EreVwlwB~bAuTW0vKPYfBDYgtU6wXYSks3nvDy0dXlxtd9cRVrg__
 
